@@ -1,0 +1,101 @@
+2024-05-31 11:12:17,286 Addition of numbers started
+2024-05-31 11:13:18,164 Addition of numbers started
+2024-05-31 11:13:18,171 started string at 1717134198.1648142
+2024-05-31 11:13:19,990 Completed string at 1717134199.9904222
+2024-05-31 11:13:19,990 Response is {'batchid': 'string', 'response': [112, 145], 'status': 'completed', 'start': 1717134198.1648142, 'end': 1717134199.9904222}
+2024-05-31 11:22:10,909 Addition of numbers started
+2024-05-31 11:22:10,909 started id1 at 2024-05-31 11:22:10.909651
+2024-05-31 11:22:12,778 Completed id1 at 2024-05-31 11:22:12.778590
+2024-05-31 11:22:12,778 Response is {'batchid': 'id1', 'response': [112, 145], 'status': 'completed', 'start': '05/31/2024, 11:22:10', 'end': '05/31/2024, 11:22:12'}
+2024-05-31 11:23:34,848 Addition of numbers started
+2024-05-31 11:23:34,848 started id1 at 2024-05-31 11:23:34.848991
+2024-05-31 11:23:36,731 Completed id1 at 2024-05-31 11:23:36.723354
+2024-05-31 11:23:36,731 Response is {'batchid': 'id1', 'response': [112, 145], 'status': 'completed', 'start_time': '31/05/2024, 11:23:34', 'end_time': '31/05/2024, 11:23:36'}
+2024-05-31 11:27:44,505 Addition of numbers started
+2024-05-31 11:27:44,505 started id1 at 2024-05-31 11:27:44.505712
+2024-05-31 11:27:46,323 Completed id1 at 2024-05-31 11:27:46.323612
+2024-05-31 11:27:46,323 Response is {'batchid': 'id1', 'response': [112, 145], 'status': 'completed', 'start_time': '31/05/2024, 11:27:44', 'end_time1': '31/05/2024, 11:27:46'}
+2024-05-31 11:31:24,347 Addition of numbers started
+2024-05-31 11:31:24,347 started id1 at 2024-05-31 11:31:24.347556
+2024-05-31 11:31:26,227 Completed id1 at 2024-05-31 11:31:26.227090
+2024-05-31 11:31:26,227 Response is {'batchid': 'id1', 'response': [112, 145], 'status': 'completed', 'start_time': '31/05/2024, 11:31:24', 'end_time': '31/05/2024, 11:31:26'}
+2024-05-31 11:34:15,805 Addition of numbers started
+2024-05-31 11:34:15,805 started id1 at 2024-05-31 11:34:15.805595
+2024-05-31 11:34:15,878 Completed id1 at 2024-05-31 11:34:15.878727
+2024-05-31 11:34:15,878 Response is {'batchid': 'id1', 'response': <multiprocessing.pool.ApplyResult object at 0x000002845A5D5650>, 'status': 'completed', 'start_time': '31/05/2024, 11:34:15', 'end_time': '31/05/2024, 11:34:15'}
+2024-05-31 11:35:52,556 Addition of numbers started
+2024-05-31 11:35:52,556 started id1 at 2024-05-31 11:35:52.556466
+2024-05-31 11:35:52,634 Completed id1 at 2024-05-31 11:35:52.634594
+2024-05-31 11:35:52,634 Response is {'batchid': 'id1', 'response': [<multiprocessing.pool.ApplyResult object at 0x0000024A56DE5650>, <multiprocessing.pool.ApplyResult object at 0x0000024A56806910>], 'status': 'completed', 'start_time': '31/05/2024, 11:35:52', 'end_time': '31/05/2024, 11:35:52'}
+2024-05-31 11:36:29,856 Addition of numbers started
+2024-05-31 11:36:29,856 started id1 at 2024-05-31 11:36:29.856762
+2024-05-31 11:36:29,926 Completed id1 at 2024-05-31 11:36:29.926249
+2024-05-31 11:36:29,926 Response is {'batchid': 'id1', 'response': [<multiprocessing.pool.ApplyResult object at 0x000001C128F75650>, <multiprocessing.pool.ApplyResult object at 0x000001C128996910>], 'status': 'completed', 'start_time': '31/05/2024, 11:36:29', 'end_time': '31/05/2024, 11:36:29'}
+2024-05-31 11:38:16,482 Addition of numbers started
+2024-05-31 11:38:16,482 started id1 at 2024-05-31 11:38:16.482344
+2024-05-31 11:38:18,287 Completed id1 at 2024-05-31 11:38:18.287680
+2024-05-31 11:38:18,287 Response is {'batchid': 'id1', 'response': [112, 145], 'status': 'completed', 'start_time': '31/05/2024, 11:38:16', 'end_time': '31/05/2024, 11:38:18'}
+2024-05-31 11:47:03,419 Addition of numbers started
+2024-05-31 11:47:03,419 started id1 at 2024-05-31 11:47:03.419287
+2024-05-31 11:47:05,100 Completed id1 at 2024-05-31 11:47:05.100986
+2024-05-31 11:47:05,100 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:47:03', 'end_time': '31/05/2024, 11:47:05'}
+2024-05-31 11:47:48,506 Addition of numbers started
+2024-05-31 11:47:48,506 started id1 at 2024-05-31 11:47:48.506811
+2024-05-31 11:47:50,149 Completed id1 at 2024-05-31 11:47:50.149070
+2024-05-31 11:47:50,149 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:47:48', 'end_time': '31/05/2024, 11:47:50'}
+2024-05-31 11:47:58,845 Addition of numbers started
+2024-05-31 11:47:58,845 started id1 at 2024-05-31 11:47:58.845520
+2024-05-31 11:48:00,525 Completed id1 at 2024-05-31 11:48:00.525115
+2024-05-31 11:48:00,525 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:47:58', 'end_time': '31/05/2024, 11:48:00'}
+2024-05-31 11:48:35,632 Addition of numbers started
+2024-05-31 11:48:35,633 started id1 at 2024-05-31 11:48:35.633264
+2024-05-31 11:48:37,305 Completed id1 at 2024-05-31 11:48:37.305784
+2024-05-31 11:48:37,305 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:48:35', 'end_time': '31/05/2024, 11:48:37'}
+2024-05-31 11:49:08,484 Addition of numbers started
+2024-05-31 11:49:08,485 started id1 at 2024-05-31 11:49:08.485875
+2024-05-31 11:49:10,137 Completed id1 at 2024-05-31 11:49:10.137419
+2024-05-31 11:49:10,137 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:49:08', 'end_time': '31/05/2024, 11:49:10'}
+2024-05-31 11:49:33,162 Addition of numbers started
+2024-05-31 11:49:33,162 started id1 at 2024-05-31 11:49:33.162800
+2024-05-31 11:49:34,844 Completed id1 at 2024-05-31 11:49:34.844360
+2024-05-31 11:49:34,844 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:49:33', 'end_time': '31/05/2024, 11:49:34'}
+2024-05-31 11:50:05,861 Addition of numbers started
+2024-05-31 11:50:05,861 started id1 at 2024-05-31 11:50:05.861379
+2024-05-31 11:50:07,522 Completed id1 at 2024-05-31 11:50:07.522864
+2024-05-31 11:50:07,522 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:50:05', 'end_time': '31/05/2024, 11:50:07'}
+2024-05-31 11:51:05,003 Addition of numbers started
+2024-05-31 11:51:05,003 started id1 at 2024-05-31 11:51:05.003887
+2024-05-31 11:51:06,769 Completed id1 at 2024-05-31 11:51:06.769691
+2024-05-31 11:51:06,769 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:51:05', 'end_time': '31/05/2024, 11:51:06'}
+2024-05-31 11:52:06,524 Addition of numbers started
+2024-05-31 11:52:06,524 started id1 at 2024-05-31 11:52:06.524146
+2024-05-31 11:52:08,197 Completed id1 at 2024-05-31 11:52:08.197576
+2024-05-31 11:52:08,197 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:52:06', 'end_time': '31/05/2024, 11:52:08'}
+2024-05-31 11:52:18,121 Addition of numbers started
+2024-05-31 11:52:18,121 started id1 at 2024-05-31 11:52:18.121454
+2024-05-31 11:52:19,806 Completed id1 at 2024-05-31 11:52:19.806411
+2024-05-31 11:52:19,806 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:52:18', 'end_time': '31/05/2024, 11:52:19'}
+2024-05-31 11:52:57,201 Addition of numbers started
+2024-05-31 11:52:57,201 started id1 at 2024-05-31 11:52:57.201545
+2024-05-31 11:52:58,877 Completed id1 at 2024-05-31 11:52:58.877656
+2024-05-31 11:52:58,877 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:52:57', 'end_time': '31/05/2024, 11:52:58'}
+2024-05-31 11:53:08,300 Addition of numbers started
+2024-05-31 11:53:08,300 started id1 at 2024-05-31 11:53:08.300700
+2024-05-31 11:53:09,949 Completed id1 at 2024-05-31 11:53:09.949855
+2024-05-31 11:53:09,949 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:53:08', 'end_time': '31/05/2024, 11:53:09'}
+2024-05-31 11:53:21,165 Addition of numbers started
+2024-05-31 11:53:21,165 started id1 at 2024-05-31 11:53:21.165350
+2024-05-31 11:53:22,836 Completed id1 at 2024-05-31 11:53:22.836574
+2024-05-31 11:53:22,836 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:53:21', 'end_time': '31/05/2024, 11:53:22'}
+2024-05-31 11:54:27,027 Addition of numbers started
+2024-05-31 11:54:27,028 started id1 at 2024-05-31 11:54:27.028391
+2024-05-31 11:54:28,678 Completed id1 at 2024-05-31 11:54:28.678553
+2024-05-31 11:54:28,678 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:54:27', 'end_time': '31/05/2024, 11:54:28'}
+2024-05-31 11:54:39,716 Addition of numbers started
+2024-05-31 11:54:39,716 started id1 at 2024-05-31 11:54:39.716846
+2024-05-31 11:54:41,390 Completed id1 at 2024-05-31 11:54:41.390798
+2024-05-31 11:54:41,390 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:54:39', 'end_time': '31/05/2024, 11:54:41'}
+2024-05-31 11:57:16,435 Addition of numbers started
+2024-05-31 11:57:16,436 started id1 at 2024-05-31 11:57:16.436111
+2024-05-31 11:57:18,099 Completed id1 at 2024-05-31 11:57:18.099202
+2024-05-31 11:57:18,099 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '31/05/2024, 11:57:16', 'end_time': '31/05/2024, 11:57:18'}
