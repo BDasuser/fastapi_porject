@@ -13,7 +13,7 @@ Prerequisites
 To run App command
     "python main.py"
 To run test cases
-    "python test_endpoint.py"
+    "python test.py"
 
 To access url
     go to http://127.0.0.1:8000/docs
