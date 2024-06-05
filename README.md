@@ -3,6 +3,14 @@ Fastapi Project
 
 This is a FastAPI app that sums numbers in sublists using multiprocessing.
 
+Files Overview
+
+- main.py: Entry point of the FastAPI application.
+- app/controller.py: Defines the API endpoints and handles incoming requests.
+- app/model.py: Contains the data models for request and response using Pydantic.
+- app/view.py: Contains the logic.
+- tests/test.py: Contains unit tests for the addition functionality.
+
 Prerequisites
 
 - Python 3.7 or above
