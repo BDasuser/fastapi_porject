@@ -19,9 +19,10 @@ Prerequisites
 - requests
 
 To run App command
-    ```"python app/main.py"```
+    ``` python app/main.py ```
+
 To run test cases
-    ```"python -m unittest discover -s ."```
+    ``` python -m unittest discover -s .```
 
 To access url
     go to http://127.0.0.1:8000/docs
