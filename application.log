@@ -1,8 +1,0 @@
-2024-06-05 22:21:52,525 Addition of numbers started
-2024-06-05 22:21:52,525 started batch1 at 2024-06-05 22:21:52.525806
-2024-06-05 22:21:54,448 Completed batch1 at 2024-06-05 22:21:54.448382
-2024-06-05 22:21:54,448 Response is {'batchid': 'batch1', 'response': [5, 11], 'status': 'completed', 'start_time': '05/06/2024, 22:21:52', 'end_time': '05/06/2024, 22:21:54'}
-2024-06-05 22:22:46,245 Addition of numbers started
-2024-06-05 22:22:46,245 started id1 at 2024-06-05 22:22:46.245538
-2024-06-05 22:22:47,912 Completed id1 at 2024-06-05 22:22:47.912719
-2024-06-05 22:22:47,912 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '05/06/2024, 22:22:46', 'end_time': '05/06/2024, 22:22:47'}
