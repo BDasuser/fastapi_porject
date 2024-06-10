@@ -1,0 +1,8 @@
+2024-06-10 11:53:10,092 Addition of numbers started
+2024-06-10 11:53:10,092 started batch1 at 2024-06-10 11:53:10.092356
+2024-06-10 11:53:11,999 Completed batch1 at 2024-06-10 11:53:11.999983
+2024-06-10 11:53:11,999 Response is {'batchid': 'batch1', 'response': [90, 268], 'status': 'completed', 'start_time': '10/06/2024, 11:53:10', 'end_time': '10/06/2024, 11:53:11'}
+2024-06-10 11:54:44,403 Addition of numbers started
+2024-06-10 11:54:44,403 started id1 at 2024-06-10 11:54:44.403772
+2024-06-10 11:54:46,109 Completed id1 at 2024-06-10 11:54:46.109144
+2024-06-10 11:54:46,109 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '10/06/2024, 11:54:44', 'end_time': '10/06/2024, 11:54:46'}
