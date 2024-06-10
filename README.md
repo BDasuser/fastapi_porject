@@ -5,23 +5,23 @@ This is a FastAPI app that sums numbers in sublists using multiprocessing.
 
 Files Overview
 
-- main.py: Entry point of the FastAPI application.
-- app/controller.py: Defines the API endpoints and handles incoming requests.
-- app/model.py: Contains the data models for request and response using Pydantic.
-- app/view.py: Contains the logic.
+- app/main.py: Entry point of the FastAPI application.
+- app/controller/add_controller.py: Defines the API endpoints and handles incoming requests.
+- app/models/model.py: Contains the data models for request and response using Pydantic.
+- app/views/view.py: Contains the logic.
 - tests/test.py: Contains unit tests for the addition functionality.
 
 Prerequisites
 
-- Python 3.7 or above
+- Python 3.8 or above
 - FastAPI
 - Uvicorn
 - requests
 
 To run App command
-    "python main.py"
+    "python app/main.py"
 To run test cases
-    "python test.py"
+    "python -m unittest discover -s ."
 
 To access url
     go to http://127.0.0.1:8000/docs
