@@ -1,0 +1,4 @@
+2024-06-10 12:07:48,287 Addition of numbers started
+2024-06-10 12:07:48,288 started id1 at 2024-06-10 12:07:48.288314
+2024-06-10 12:07:50,009 Completed id1 at 2024-06-10 12:07:50.009923
+2024-06-10 12:07:50,009 Response is {'batchid': 'id1', 'response': [3, 7], 'status': 'completed', 'start_time': '10/06/2024, 12:07:48', 'end_time': '10/06/2024, 12:07:50'}
